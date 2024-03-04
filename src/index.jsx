@@ -2,8 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { Route, Routes, BrowserRouter } from "react-router-dom";
 import "./index.css";
-import Home from "";
-import Commands from "";
+import Home from "pages/Home";
+import Commands from "pages/Commands";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
