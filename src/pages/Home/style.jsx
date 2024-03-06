@@ -7,6 +7,7 @@ export const Content = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #4b1616;
     padding: 100px;
   }
 
@@ -44,5 +45,43 @@ export const Content = styled.div`
     font-weight: 500;
     letter-spacing: 1px;
     text-decoration: none;
+  }
+
+  .content:before {
+    z-index: 888;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(transparent, #202834);
+  }
+`;
+
+export const History = styled.div`
+  .make_history {
+    height: 100vh;
+    background-color: #202834;
+  }
+
+  .make_history h1 {
+    margin-top: 0;
+    color: #4b1616;
+    font-size: 1.5rem;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .make_history p {
+    margin-top: 1rem;
+    color: #fff;
+    font-size: 1rem;
+  }
+
+  .make_history .title {
+    text-align: center;
   }
 `;
