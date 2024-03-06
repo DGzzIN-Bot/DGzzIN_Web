@@ -63,12 +63,20 @@ export const History = styled.div`
   .make_history {
     height: 100vh;
     background-color: #202834;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .make_history .media-body h1,
+  p {
+    font-family: "Madimi One", sans-serif;
+    padding: 0 2rem;
   }
 
   .make_history h1 {
-    margin-top: 0;
     color: #4b1616;
-    font-size: 1.5rem;
+    font-size: 200%;
     justify-content: center;
     flex-direction: row;
     text-align: center;
@@ -78,7 +86,7 @@ export const History = styled.div`
   .make_history p {
     margin-top: 1rem;
     color: #fff;
-    font-size: 1rem;
+    font-size: 120%;
   }
 
   .make_history .title {

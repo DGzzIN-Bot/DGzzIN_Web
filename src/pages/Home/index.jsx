@@ -1,11 +1,12 @@
 import React from "react";
 import { Content, History } from "./style";
 import Footer from "components/Footer";
-import icons from "data/icons";
+import Header from "components/Header";
 
 const Home = () => {
   return (
     <>
+      <Header />
       <Content>
         <div class="content">
           <div class="textBox">
