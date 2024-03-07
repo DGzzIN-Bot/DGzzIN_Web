@@ -5,6 +5,7 @@ export const Footers = styled.div`
     max-width: 500%;
     margin: auto;
     padding: 1rem 1rem;
+    z-index: -1000;
   }
 
   .container .logo {

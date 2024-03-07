@@ -1,16 +1,24 @@
 import styled from "styled-components";
 
-export const Container = styled.div`
+export const Header = styled.div`
   header {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    padding: 20px 100px;
+    padding: 10px 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background: #202225;
+    box-shadow: 0 1px 15px rgba(0, 0, 0, 0.6);
     z-index: 1000;
+  }
+
+  header .logo {
+    position: relative;
+    max-width: 50px;
+    text-align: center;
   }
 
   header ul {
@@ -22,7 +30,7 @@ export const Container = styled.div`
     list-style: none;
   }
 
-  .navigation a {
+  header .navigation a {
     position: relative;
     color: #fff;
     font-size: 1em;
@@ -32,7 +40,7 @@ export const Container = styled.div`
     transition: 0.3s ease;
   }
 
-  .navigation a:before {
+  header .navigation a:before {
     content: "";
     position: absolute;
     background: #fff;
@@ -43,15 +51,18 @@ export const Container = styled.div`
     transition: 0.3s ease;
   }
 
-  .navigation a:hover:before {
-    width: 100%;
+  header .navigation a:before {
+    content: "";
+    position: absolute;
+    background: #fff;
+    width: 0;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    transition: 0.3s ease;
   }
 
-  .brand {
-    color: #fff;
-    font-size: 1.5em;
-    font-weight: 700;
-    text-transform: uppercase;
-    text-decoration: none;
+  header .navigation a:hover:before {
+    width: 100%;
   }
 `;

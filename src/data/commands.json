@@ -1,0 +1,991 @@
+{
+  "all": [
+    {
+      "name": "d$coinflip",
+      "subtitle": "jogue cara ou coroa comigo.",
+      "usageDescription": "Utilize este comando para jogar cara ou coroa comigo.",
+      "howToUse": ["d$coinflip cara", "d$coinflip coroa"]
+    },
+    {
+      "name": "d$caraoucoroa",
+      "subtitle": "jogue cara ou coroa comigo.",
+      "usageDescription": "Utilize este comando para jogar cara ou coroa comigo.",
+      "howToUse": ["d$caraoucoroa cara", "d$caraoucoroa coroa"]
+    },
+    {
+      "name": "d$falar",
+      "subtitle": "se passe por mim e digite algo para mim falar.",
+      "usageDescription": "Utilize este comando para mim falar algo no chat.",
+      "howToUse": ["d$falar Salve!!"]
+    },
+    {
+      "name": "d$say",
+      "subtitle": "se passe por mim e digite algo para mim falar.",
+      "usageDescription": "Utilize este comando para mim falar algo no chat.",
+      "howToUse": ["d$say Salve!!"]
+    },
+    {
+      "name": "d$abracar",
+      "subtitle": "abraçe um usuário do servidor.",
+      "usageDescription": "Utilize este comando para abraçar um usuário do servidor.",
+      "howToUse": ["d$abracar @YGɑbrielGØDs", "d$abracar 812911319695097856"]
+    },
+    {
+      "name": "d$abraco",
+      "subtitle": "abraçe um usuário do servidor.",
+      "usageDescription": "Utilize este comando para abraçar um usuário do servidor.",
+      "howToUse": ["d$abraco @YGɑbrielGØDs", "d$abraco 812911319695097856"]
+    },
+    {
+      "name": "d$avatar",
+      "subtitle": "veja a foto de perfil de um usuário do servidor.",
+      "usageDescription": "Utilize este comando para ver a foto de perfil de um usuário do servidor.",
+      "howToUse": [
+        "d$avatar (Mostra o seu próprio avatar)",
+        "d$avatar @YGɑbrielGØDs (Mostra o avatar do usuário mencionado)",
+        "d$avatar 812911319695097856 (Mostra o avatar do usuário através do ID)"
+      ]
+    },
+    {
+      "name": "d$beijo",
+      "subtitle": "beije um usuário do servidor",
+      "usageDescription": "Utilize este comando para beijar um usuário do servidor.",
+      "howToUse": ["d$beijo @YGɑbrielGØDs", "d$beijo 812911319695097856"]
+    },
+    {
+      "name": "d$biden",
+      "subtitle": "fale algo para Joe Biden falar.",
+      "usageDescription": "Utilize este comando para que o Biden fale algo.",
+      "howToUse": ["d$biden Life is a matter of really hard choices"]
+    },
+    {
+      "name": "d$bolso",
+      "subtitle": "fale algo para Jair Bolsonaro falar.",
+      "usageDescription": "Utilize este comando para que o Bolsonaro fale algo.",
+      "howToUse": ["d$bolso TÁ OK"]
+    },
+    {
+      "name": "d$bolsonaro",
+      "subtitle": "fale algo para Jair Bolsonaro falar.",
+      "usageDescription": "Utilize este comando para que o Bolsonaro fale algo.",
+      "howToUse": ["d$bolsonaro TÁ OK"]
+    },
+    {
+      "name": "d$dilma",
+      "subtitle": "fale algo para Dilma Rousseff falar.",
+      "usageDescription": "Utilize este comando para que a Dilma fale algo.",
+      "howToUse": ["d$dilma Vai todo mundo perder."]
+    },
+    {
+      "name": "d$dilminha",
+      "subtitle": "fale algo para Dilma Rousseff falar.",
+      "usageDescription": "Utilize este comando para que a Dilma fale algo.",
+      "howToUse": ["d$dilminha Vai todo mundo perder."]
+    },
+    {
+      "name": "d$donald",
+      "subtitle": "fale algo para Donald Trump falar.",
+      "usageDescription": "Utilize este comando para que o Trump fale algo.",
+      "howToUse": ["d$donald The good of life doesn't end until you give it up"]
+    },
+    {
+      "name": "d$hug",
+      "subtitle": "abraçe um usuário do servidor.",
+      "usageDescription": "Utilize este comando para abraçar um usuário do servidor.",
+      "howToUse": ["d$hug @YGɑbrielGØDs", "d$hug 812911319695097856"]
+    },
+    {
+      "name": "d$joe",
+      "subtitle": "fale algo para Joe Biden falar.",
+      "usageDescription": "Utilize este comando para que o Biden fale algo.",
+      "howToUse": ["d$joe Life is a matter of really hard choices"]
+    },
+    {
+      "name": "d$kiss",
+      "subtitle": "beije um usuário do servidor",
+      "usageDescription": "Utilize este comando para beijar um usuário do servidor.",
+      "howToUse": ["d$kiss @YGɑbrielGØDs", "d$kiss 812911319695097856"]
+    },
+    {
+      "name": "d$lula",
+      "subtitle": "fale algo para Lula da Silva falar.",
+      "usageDescription": "Utilize este comando para que o Lula fale algo.",
+      "howToUse": ["d$lula Eu não vou enganar o povo mais uma vez"]
+    },
+    {
+      "name": "d$lulinha",
+      "subtitle": "fale algo para Lula da Silva falar.",
+      "usageDescription": "Utilize este comando para que o Lula fale algo.",
+      "howToUse": ["d$lulinha Eu não vou enganar o povo mais uma vez"]
+    },
+    {
+      "name": "d$moro",
+      "subtitle": "fale algo para Sergio Moro falar.",
+      "usageDescription": "Utilize este comando para que o Moro fale algo.",
+      "howToUse": ["d$moro Eu combatí a corrupção"]
+    },
+    {
+      "name": "d$sergio",
+      "subtitle": "fale algo para Sergio Moro falar.",
+      "usageDescription": "Utilize este comando para que o Moro fale algo.",
+      "howToUse": ["d$sergio Eu combatí a corrupção"]
+    },
+    {
+      "name": "d$slap",
+      "subtitle": "dê um tapa no rosto de um usuário do servidor.",
+      "usageDescription": "Utilize este comando para dar um tapa em um usuário do servidor.",
+      "howToUse": ["d$slap @YGɑbrielGØDs", "d$slap 812911319695097856"]
+    },
+    {
+      "name": "d$stonks",
+      "subtitle": "seu avatar com a mensagem de Stonks.",
+      "usageDescription": "Utilize este comando para eu enviar seu ícone na mensagem de Stonks.",
+      "howToUse": [
+        "d$stonks (Mostra o seu avatar)",
+        "d$stonks @YGɑbrielGØDs (Mostra o avatar da pessoa mencionada)"
+      ]
+    },
+    {
+      "name": "d$tapa",
+      "subtitle": "dê um tapa no rosto de um usuário do servidor.",
+      "usageDescription": "Utilize este comando para dar um tapa em um usuário do servidor.",
+      "howToUse": ["d$tapa @YGɑbrielGØDs", "d$tapa 812911319695097856"]
+    },
+    {
+      "name": "d$trump",
+      "subtitle": "fale algo para Donald Trump falar.",
+      "usageDescription": "Utilize este comando para que o Trump fale algo.",
+      "howToUse": ["d$trump The good of life doesn't end until you give it up"]
+    },
+    {
+      "name": "d$botinfo",
+      "subtitle": "saiba mais informações sobre mim.",
+      "usageDescription": "Utilize este comando para ver informações sobre mim.",
+      "howToUse": ["d$botinfo"]
+    },
+    {
+      "name": "d$clima (local)",
+      "subtitle": "saiba como está o clima de um lugar no mundo.",
+      "usageDescription": "Utilize este comando para saber o clima de um lugar.",
+      "howToUse": ["d$clima SP", "d$clima São Paulo"]
+    },
+    {
+      "name": "d$covid (local)",
+      "subtitle": "saiba como está a situação da Covid-19 em algum lugar do mundo.",
+      "usageDescription": "Utilize este comando para saber sobre a Covid-19 em um lugar.",
+      "howToUse": [
+        "d$covid (Mostra os dados de todo o mundo.)",
+        "d$covid Brasil (Mostra os dados somente do Brasil.)"
+      ]
+    },
+    {
+      "name": "d$covid19 (local)",
+      "subtitle": "saiba como está a situação da Covid-19 em algum lugar do mundo.",
+      "usageDescription": "Utilize este comando para saber sobre a Covid-19 em um lugar.",
+      "howToUse": [
+        "d$covid19 (Mostra os dados de todo o mundo.)",
+        "d$covid19 Brasil (Mostra os dados somente do Brasil.)"
+      ]
+    },
+    {
+      "name": "d$emojiinfo",
+      "subtitle": "obtenha informações de um determinado emoji.",
+      "usageDescription": "Utilize este comando para obter informações de um emoji.",
+      "howToUse": ["d$emojiinfo (emoji)"]
+    },
+    {
+      "name": "d$serverinfo",
+      "subtitle": "saiba mais informações sobre algum servidor.",
+      "usageDescription": "Utilize este comando para ver informações sobre mim.",
+      "howToUse": ["d$serverinfo"]
+    },
+    {
+      "name": "d$tempo (local)",
+      "subtitle": "saiba como está o clima de um lugar no mundo.",
+      "usageDescription": "Utilize este comando para saber o clima de um lugar.",
+      "howToUse": ["d$tempo SP", "d$tempo São Paulo"]
+    },
+    {
+      "name": "d$userinfo",
+      "subtitle": "veja as informações de um usuário do servidor.",
+      "usageDescription": "Utilize este comando para saber informações de um usuário.",
+      "howToUse": [
+        "d$userinfo (Mostra as suas próprias informações)",
+        "d$userinfo @YGɑbrielGØDs (Mostra as informações do usuário mencionado)",
+        "d$userinfo 812911319695097856 (Mostra as informações do usuário através do ID)"
+      ]
+    },
+    {
+      "name": "d$addcargo",
+      "subtitle": "adicione um cargo em um usuário do servidor.",
+      "usageDescription": "Utilize este comando para adicionar um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$addcargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$addcargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$addemoji",
+      "subtitle": "adicione um emoji em seu servidor.",
+      "usageDescription": "Utilize este comando para adicionar um emoji em seu servidor.",
+      "howToUse": [
+        "d$addemoji <:ney_caze:935410173462327317>",
+        "d$addemoji :ney_caze:"
+      ]
+    },
+    {
+      "name": "d$adicionarcargo",
+      "subtitle": "adicione um cargo em um usuário do servidor.",
+      "usageDescription": "Utilize este comando para adicionar um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$adicionarcargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$adicionarcargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$adicionaremoji",
+      "subtitle": "adicione um emoji em seu servidor.",
+      "usageDescription": "Utilize este comando para adicionar um emoji em seu servidor.",
+      "howToUse": [
+        "d$adicionaremoji <:ney_caze:935410173462327317>",
+        "d$adicionaremoji :ney_caze:"
+      ]
+    },
+    {
+      "name": "d$antilink",
+      "subtitle": "proíba que links seja postados em seu servidor.",
+      "usageDescription": "Utilize este comando para proibir links em seu servidor. Use d$antilink on para ativar ou d$antilink off para desativar.",
+      "howToUse": ["d$antilink on", "d$antilink off"]
+    },
+    {
+      "name": "d$antilinks",
+      "subtitle": "proíba que links seja postados em seu servidor.",
+      "usageDescription": "Utilize este comando para proibir links em seu servidor. Use d$antilinks on para ativar ou d$antilinks off para desativar.",
+      "howToUse": ["d$antilinks on", "d$antilinks off"]
+    },
+    {
+      "name": "d$ban",
+      "subtitle": "bane um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para banir um usuário do seu servidor.",
+      "howToUse": [
+        "d$ban @YGɑbrielGØDs Divulgação",
+        "$ban 812911319695097856 spam no chat"
+      ]
+    },
+    {
+      "name": "d$banir",
+      "subtitle": "bane um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para banir um usuário do seu servidor.",
+      "howToUse": [
+        "d$banir @YGɑbrielGØDs Divulgação",
+        "$banir 812911319695097856 spam no chat"
+      ]
+    },
+    {
+      "name": "d$clear",
+      "subtitle": "limpe as mensagens de um chat do seu servidor.",
+      "usageDescription": "Utilize este comando para limpar mensagens no chat.",
+      "howToUse": ["d$clear 50"]
+    },
+    {
+      "name": "d$denuncia",
+      "subtitle": "denuncie um usuário do servidor.",
+      "usageDescription": "Utilize este comando para denunciar alguém do servidor.",
+      "howToUse": ["d$denuncia O YGɑbrielGØDs#3317 me ofendeu."]
+    },
+    {
+      "name": "d$denunciar",
+      "subtitle": "denuncie um usuário do servidor.",
+      "usageDescription": "Utilize este comando para denunciar alguém do servidor.",
+      "howToUse": ["d$denunciar O YGɑbrielGØDs#3317 me ofendeu."]
+    },
+    {
+      "name": "d$destrancar",
+      "subtitle": "destranque um canal do seu servidor.",
+      "usageDescription": "Utilize este comando para destrancar um canal em seu servidor.",
+      "howToUse": ["d$destrancar"]
+    },
+    {
+      "name": "d$expulsar",
+      "subtitle": "expulse um usuário do seu servidor",
+      "usageDescription": "Utilize este comando para expulsar um usuário do seu servidor.",
+      "howToUse": [
+        "d$expulsar @YGɑbrielGØDs Divulgação",
+        "d$expulsar 812911319695097856 spam no chat"
+      ]
+    },
+    {
+      "name": "d$kick",
+      "subtitle": "expulse um usuário do seu servidor",
+      "usageDescription": "Utilize este comando para expulsar um usuário do seu servidor.",
+      "howToUse": [
+        "d$kick @YGɑbrielGØDs Divulgação",
+        "d$kick 812911319695097856 spam no chat"
+      ]
+    },
+    {
+      "name": "d$limpar",
+      "subtitle": "limpe as mensagens de um chat do seu servidor.",
+      "usageDescription": "Utilize este comando para limpar mensagens no chat.",
+      "howToUse": ["d$limpar 50"]
+    },
+    {
+      "name": "d$removecargo",
+      "subtitle": "remova um cargo de um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para remover um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$removecargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$removecargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$removercargo",
+      "subtitle": "remova um cargo de um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para remover um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$removercargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$removercargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$remcargo",
+      "subtitle": "remova um cargo de um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para remover um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$remcargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$remcargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$reportarbug",
+      "subtitle": "reporte o bug de algum servidor ao seu dono e moderadores.",
+      "usageDescription": "Utilize este comando para reportar um bug de algum servidor.",
+      "howToUse": ["d$reportarbug Tal comando está bugado."]
+    },
+    {
+      "name": "d$reportbug",
+      "subtitle": "reporte o bug de algum servidor ao seu dono e moderadores.",
+      "usageDescription": "Utilize este comando para reportar um bug de algum servidor.",
+      "howToUse": ["d$reportbug Tal comando está bugado."]
+    },
+    {
+      "name": "d$repbug",
+      "subtitle": "reporte o bug de algum servidor ao seu dono e moderadores.",
+      "usageDescription": "Utilize este comando para reportar um bug de algum servidor.",
+      "howToUse": ["d$repbug Tal comando está bugado."]
+    },
+    {
+      "name": "d$setban",
+      "subtitle": "sete um canal de banimentos do seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de ban.",
+      "howToUse": ["d$setban (canal)"]
+    },
+    {
+      "name": "d$setbanir",
+      "subtitle": "sete um canal de banimentos do seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de ban.",
+      "howToUse": ["d$setbanir (canal)"]
+    },
+    {
+      "name": "d$setdenuncia",
+      "subtitle": "sete um canal de denúncias em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de denúncias.",
+      "howToUse": ["d$setdenuncia (canal)"]
+    },
+    {
+      "name": "d$setdenunciar",
+      "subtitle": "sete um canal de denúncias em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de denúncias.",
+      "howToUse": ["d$setdenunciar (canal)"]
+    },
+    {
+      "name": "d$setexpulsar",
+      "subtitle": "sete um canal de expulsões em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de expulsão.",
+      "howToUse": ["d$setexpulsar (canal)"]
+    },
+    {
+      "name": "d$setkick",
+      "subtitle": "sete um canal de expulsões em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de expulsão.",
+      "howToUse": ["d$setkick (canal)"]
+    },
+    {
+      "name": "d$setreportarbug",
+      "subtitle": "sete um canal para reportar bugs em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal para reportar bugs.",
+      "howToUse": ["d$setreportarbug (canal)"]
+    },
+    {
+      "name": "d$setreportbug",
+      "subtitle": "sete um canal para reportar bugs em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal para reportar bugs.",
+      "howToUse": ["d$setreportbug (canal)"]
+    },
+    {
+      "name": "d$repbug",
+      "subtitle": "sete um canal para reportar bugs em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal para reportar bugs.",
+      "howToUse": ["d$repbug (canal)"]
+    },
+    {
+      "name": "d$setsugerir",
+      "subtitle": "sete um canal de sugestões em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de sugestões.",
+      "howToUse": ["d$setsugerir (canal)"]
+    },
+    {
+      "name": "d$setsugestao",
+      "subtitle": "sete um canal de sugestões em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de sugestões.",
+      "howToUse": ["d$setsugestao (canal)"]
+    },
+    {
+      "name": "d$setmsgedit",
+      "subtitle": "sete um canal para logs de mensagens editadas em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de logs para mensagens editadas.",
+      "howToUse": ["d$setmsgedit (canal)"]
+    },
+    {
+      "name": "d$setmsgdel",
+      "subtitle": "sete um canal para logs de mensagens apagadas em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de logs para mensagens apagadas.",
+      "howToUse": ["d$setmsgdel (canal)"]
+    },
+    {
+      "name": "d$sugerir",
+      "subtitle": "sugira algo para algum servidor.",
+      "usageDescription": "Utilize este comando para sugerir algo para o servidor.",
+      "howToUse": [
+        "d$sugerir Sugiro que adicione um bot de musica no servidor."
+      ]
+    },
+    {
+      "name": "d$sugestao",
+      "subtitle": "sugira algo para algum servidor.",
+      "usageDescription": "Utilize este comando para sugerir algo para o servidor.",
+      "howToUse": [
+        "d$sugestao Sugiro que adicione um bot de musica no servidor."
+      ]
+    },
+    {
+      "name": "d$trancar",
+      "subtitle": "tranque um canal do seu servidor.",
+      "usageDescription": "Utilize este comando para trancar um canal em seu servidor.",
+      "howToUse": ["d$trancar"]
+    },
+    {
+      "name": "d$unlock",
+      "subtitle": "destranque um canal do seu servidor.",
+      "usageDescription": "Utilize este comando para destrancar um canal em seu servidor.",
+      "howToUse": ["d$unlock"]
+    },
+
+    {
+      "name": "d$calculadora",
+      "subtitle": "utilize uma calculadora e faça seus cálculos",
+      "usageDescription": "Utilize este comando para utilizar uma calculadora.",
+      "howToUse": ["d$calculadora"]
+    }
+  ],
+  "fun": [
+    {
+      "name": "d$coinflip",
+      "subtitle": "jogue cara ou coroa comigo.",
+      "usageDescription": "Utilize este comando para jogar cara ou coroa comigo.",
+      "howToUse": ["d$coinflip cara", "d$coinflip coroa"]
+    },
+    {
+      "name": "d$caraoucoroa",
+      "subtitle": "jogue cara ou coroa comigo.",
+      "usageDescription": "Utilize este comando para jogar cara ou coroa comigo.",
+      "howToUse": ["d$caraoucoroa cara", "d$caraoucoroa coroa"]
+    },
+    {
+      "name": "d$falar",
+      "subtitle": "se passe por mim e digite algo para mim falar.",
+      "usageDescription": "Utilize este comando para mim falar algo no chat.",
+      "howToUse": ["d$falar Salve!!"]
+    },
+    {
+      "name": "d$say",
+      "subtitle": "se passe por mim e digite algo para mim falar.",
+      "usageDescription": "Utilize este comando para mim falar algo no chat.",
+      "howToUse": ["d$say Salve!!"]
+    }
+  ],
+
+  "images": [
+    {
+      "name": "d$abracar",
+      "subtitle": "abraçe um usuário do servidor.",
+      "usageDescription": "Utilize este comando para abraçar um usuário do servidor.",
+      "howToUse": ["d$abracar @YGɑbrielGØDs", "d$abracar 812911319695097856"]
+    },
+    {
+      "name": "d$abraco",
+      "subtitle": "abraçe um usuário do servidor.",
+      "usageDescription": "Utilize este comando para abraçar um usuário do servidor.",
+      "howToUse": ["d$abraco @YGɑbrielGØDs", "d$abraco 812911319695097856"]
+    },
+    {
+      "name": "d$avatar",
+      "subtitle": "veja a foto de perfil de um usuário do servidor.",
+      "usageDescription": "Utilize este comando para ver a foto de perfil de um usuário do servidor.",
+      "howToUse": [
+        "d$avatar (Mostra o seu próprio avatar)",
+        "d$avatar @YGɑbrielGØDs (Mostra o avatar do usuário mencionado)",
+        "d$avatar 812911319695097856 (Mostra o avatar do usuário através do ID)"
+      ]
+    },
+    {
+      "name": "d$beijo",
+      "subtitle": "beije um usuário do servidor",
+      "usageDescription": "Utilize este comando para beijar um usuário do servidor.",
+      "howToUse": ["d$beijo @YGɑbrielGØDs", "d$beijo 812911319695097856"]
+    },
+    {
+      "name": "d$biden",
+      "subtitle": "fale algo para Joe Biden falar.",
+      "usageDescription": "Utilize este comando para que o Biden fale algo.",
+      "howToUse": ["d$biden Life is a matter of really hard choices"]
+    },
+    {
+      "name": "d$bolso",
+      "subtitle": "fale algo para Jair Bolsonaro falar.",
+      "usageDescription": "Utilize este comando para que o Bolsonaro fale algo.",
+      "howToUse": ["d$bolso TÁ OK"]
+    },
+    {
+      "name": "d$bolsonaro",
+      "subtitle": "fale algo para Jair Bolsonaro falar.",
+      "usageDescription": "Utilize este comando para que o Bolsonaro fale algo.",
+      "howToUse": ["d$bolsonaro TÁ OK"]
+    },
+    {
+      "name": "d$dilma",
+      "subtitle": "fale algo para Dilma Rousseff falar.",
+      "usageDescription": "Utilize este comando para que a Dilma fale algo.",
+      "howToUse": ["d$dilma Vai todo mundo perder."]
+    },
+    {
+      "name": "d$dilminha",
+      "subtitle": "fale algo para Dilma Rousseff falar.",
+      "usageDescription": "Utilize este comando para que a Dilma fale algo.",
+      "howToUse": ["d$dilminha Vai todo mundo perder."]
+    },
+    {
+      "name": "d$donald",
+      "subtitle": "fale algo para Donald Trump falar.",
+      "usageDescription": "Utilize este comando para que o Trump fale algo.",
+      "howToUse": ["d$donald The good of life doesn't end until you give it up"]
+    },
+    {
+      "name": "d$hug",
+      "subtitle": "abraçe um usuário do servidor.",
+      "usageDescription": "Utilize este comando para abraçar um usuário do servidor.",
+      "howToUse": ["d$hug @YGɑbrielGØDs", "d$hug 812911319695097856"]
+    },
+    {
+      "name": "d$joe",
+      "subtitle": "fale algo para Joe Biden falar.",
+      "usageDescription": "Utilize este comando para que o Biden fale algo.",
+      "howToUse": ["d$joe Life is a matter of really hard choices"]
+    },
+    {
+      "name": "d$kiss",
+      "subtitle": "beije um usuário do servidor",
+      "usageDescription": "Utilize este comando para beijar um usuário do servidor.",
+      "howToUse": ["d$kiss @YGɑbrielGØDs", "d$kiss 812911319695097856"]
+    },
+    {
+      "name": "d$lula",
+      "subtitle": "fale algo para Lula da Silva falar.",
+      "usageDescription": "Utilize este comando para que o Lula fale algo.",
+      "howToUse": ["d$lula Eu não vou enganar o povo mais uma vez"]
+    },
+    {
+      "name": "d$lulinha",
+      "subtitle": "fale algo para Lula da Silva falar.",
+      "usageDescription": "Utilize este comando para que o Lula fale algo.",
+      "howToUse": ["d$lulinha Eu não vou enganar o povo mais uma vez"]
+    },
+    {
+      "name": "d$moro",
+      "subtitle": "fale algo para Sergio Moro falar.",
+      "usageDescription": "Utilize este comando para que o Moro fale algo.",
+      "howToUse": ["d$moro Eu combatí a corrupção"]
+    },
+    {
+      "name": "d$sergio",
+      "subtitle": "fale algo para Sergio Moro falar.",
+      "usageDescription": "Utilize este comando para que o Moro fale algo.",
+      "howToUse": ["d$sergio Eu combatí a corrupção"]
+    },
+    {
+      "name": "d$slap",
+      "subtitle": "dê um tapa no rosto de um usuário do servidor.",
+      "usageDescription": "Utilize este comando para dar um tapa em um usuário do servidor.",
+      "howToUse": ["d$slap @YGɑbrielGØDs", "d$slap 812911319695097856"]
+    },
+    {
+      "name": "d$stonks",
+      "subtitle": "seu avatar com a mensagem de Stonks.",
+      "usageDescription": "Utilize este comando para eu enviar seu ícone na mensagem de Stonks.",
+      "howToUse": [
+        "d$stonks (Mostra o seu avatar)",
+        "d$stonks @YGɑbrielGØDs (Mostra o avatar da pessoa mencionada)"
+      ]
+    },
+    {
+      "name": "d$tapa",
+      "subtitle": "dê um tapa no rosto de um usuário do servidor.",
+      "usageDescription": "Utilize este comando para dar um tapa em um usuário do servidor.",
+      "howToUse": ["d$tapa @YGɑbrielGØDs", "d$tapa 812911319695097856"]
+    },
+    {
+      "name": "d$trump",
+      "subtitle": "fale algo para Donald Trump falar.",
+      "usageDescription": "Utilize este comando para que o Trump fale algo.",
+      "howToUse": ["d$trump The good of life doesn't end until you give it up"]
+    }
+  ],
+
+  "information": [
+    {
+      "name": "d$botinfo",
+      "subtitle": "saiba mais informações sobre mim.",
+      "usageDescription": "Utilize este comando para ver informações sobre mim.",
+      "howToUse": ["d$botinfo"]
+    },
+    {
+      "name": "d$clima (local)",
+      "subtitle": "saiba como está o clima de um lugar no mundo.",
+      "usageDescription": "Utilize este comando para saber o clima de um lugar.",
+      "howToUse": ["d$clima SP", "d$clima São Paulo"]
+    },
+    {
+      "name": "d$covid (local)",
+      "subtitle": "saiba como está a situação da Covid-19 em algum lugar do mundo.",
+      "usageDescription": "Utilize este comando para saber sobre a Covid-19 em um lugar.",
+      "howToUse": [
+        "d$covid (Mostra os dados de todo o mundo.)",
+        "d$covid Brasil (Mostra os dados somente do Brasil.)"
+      ]
+    },
+    {
+      "name": "d$covid19 (local)",
+      "subtitle": "saiba como está a situação da Covid-19 em algum lugar do mundo.",
+      "usageDescription": "Utilize este comando para saber sobre a Covid-19 em um lugar.",
+      "howToUse": [
+        "d$covid19 (Mostra os dados de todo o mundo.)",
+        "d$covid19 Brasil (Mostra os dados somente do Brasil.)"
+      ]
+    },
+    {
+      "name": "d$emojiinfo",
+      "subtitle": "obtenha informações de um determinado emoji.",
+      "usageDescription": "Utilize este comando para obter informações de um emoji.",
+      "howToUse": ["d$emojiinfo (emoji)"]
+    },
+    {
+      "name": "d$serverinfo",
+      "subtitle": "saiba mais informações sobre algum servidor.",
+      "usageDescription": "Utilize este comando para ver informações sobre mim.",
+      "howToUse": ["d$serverinfo"]
+    },
+    {
+      "name": "d$tempo (local)",
+      "subtitle": "saiba como está o clima de um lugar no mundo.",
+      "usageDescription": "Utilize este comando para saber o clima de um lugar.",
+      "howToUse": ["d$tempo SP", "d$tempo São Paulo"]
+    },
+    {
+      "name": "d$userinfo",
+      "subtitle": "veja as informações de um usuário do servidor.",
+      "usageDescription": "Utilize este comando para saber informações de um usuário.",
+      "howToUse": [
+        "d$userinfo (Mostra as suas próprias informações)",
+        "d$userinfo @YGɑbrielGØDs (Mostra as informações do usuário mencionado)",
+        "d$userinfo 812911319695097856 (Mostra as informações do usuário através do ID)"
+      ]
+    }
+  ],
+
+  "moderation": [
+    {
+      "name": "d$addcargo",
+      "subtitle": "adicione um cargo em um usuário do servidor.",
+      "usageDescription": "Utilize este comando para adicionar um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$addcargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$addcargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$addemoji",
+      "subtitle": "adicione um emoji em seu servidor.",
+      "usageDescription": "Utilize este comando para adicionar um emoji em seu servidor.",
+      "howToUse": [
+        "d$addemoji <:ney_caze:935410173462327317>",
+        "d$addemoji :ney_caze:"
+      ]
+    },
+    {
+      "name": "d$adicionarcargo",
+      "subtitle": "adicione um cargo em um usuário do servidor.",
+      "usageDescription": "Utilize este comando para adicionar um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$adicionarcargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$adicionarcargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$adicionaremoji",
+      "subtitle": "adicione um emoji em seu servidor.",
+      "usageDescription": "Utilize este comando para adicionar um emoji em seu servidor.",
+      "howToUse": [
+        "d$adicionaremoji <:ney_caze:935410173462327317>",
+        "d$adicionaremoji :ney_caze:"
+      ]
+    },
+    {
+      "name": "d$antilink",
+      "subtitle": "proíba que links seja postados em seu servidor.",
+      "usageDescription": "Utilize este comando para proibir links em seu servidor. Use d$antilink on para ativar ou d$antilink off para desativar.",
+      "howToUse": ["d$antilink on", "d$antilink off"]
+    },
+    {
+      "name": "d$antilinks",
+      "subtitle": "proíba que links seja postados em seu servidor.",
+      "usageDescription": "Utilize este comando para proibir links em seu servidor. Use d$antilinks on para ativar ou d$antilinks off para desativar.",
+      "howToUse": ["d$antilinks on", "d$antilinks off"]
+    },
+    {
+      "name": "d$ban",
+      "subtitle": "bane um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para banir um usuário do seu servidor.",
+      "howToUse": [
+        "d$ban @YGɑbrielGØDs Divulgação",
+        "$ban 812911319695097856 spam no chat"
+      ]
+    },
+    {
+      "name": "d$banir",
+      "subtitle": "bane um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para banir um usuário do seu servidor.",
+      "howToUse": [
+        "d$banir @YGɑbrielGØDs Divulgação",
+        "$banir 812911319695097856 spam no chat"
+      ]
+    },
+    {
+      "name": "d$clear",
+      "subtitle": "limpe as mensagens de um chat do seu servidor.",
+      "usageDescription": "Utilize este comando para limpar mensagens no chat.",
+      "howToUse": ["d$clear 50"]
+    },
+    {
+      "name": "d$denuncia",
+      "subtitle": "denuncie um usuário do servidor.",
+      "usageDescription": "Utilize este comando para denunciar alguém do servidor.",
+      "howToUse": ["d$denuncia O YGɑbrielGØDs#3317 me ofendeu."]
+    },
+    {
+      "name": "d$denunciar",
+      "subtitle": "denuncie um usuário do servidor.",
+      "usageDescription": "Utilize este comando para denunciar alguém do servidor.",
+      "howToUse": ["d$denunciar O YGɑbrielGØDs#3317 me ofendeu."]
+    },
+    {
+      "name": "d$destrancar",
+      "subtitle": "destranque um canal do seu servidor.",
+      "usageDescription": "Utilize este comando para destrancar um canal em seu servidor.",
+      "howToUse": ["d$destrancar"]
+    },
+    {
+      "name": "d$expulsar",
+      "subtitle": "expulse um usuário do seu servidor",
+      "usageDescription": "Utilize este comando para expulsar um usuário do seu servidor.",
+      "howToUse": [
+        "d$expulsar @YGɑbrielGØDs Divulgação",
+        "d$expulsar 812911319695097856 spam no chat"
+      ]
+    },
+    {
+      "name": "d$kick",
+      "subtitle": "expulse um usuário do seu servidor",
+      "usageDescription": "Utilize este comando para expulsar um usuário do seu servidor.",
+      "howToUse": [
+        "d$kick @YGɑbrielGØDs Divulgação",
+        "d$kick 812911319695097856 spam no chat"
+      ]
+    },
+    {
+      "name": "d$limpar",
+      "subtitle": "limpe as mensagens de um chat do seu servidor.",
+      "usageDescription": "Utilize este comando para limpar mensagens no chat.",
+      "howToUse": ["d$limpar 50"]
+    },
+    {
+      "name": "d$removecargo",
+      "subtitle": "remova um cargo de um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para remover um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$removecargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$removecargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$removercargo",
+      "subtitle": "remova um cargo de um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para remover um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$removercargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$removercargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$remcargo",
+      "subtitle": "remova um cargo de um usuário do seu servidor.",
+      "usageDescription": "Utilize este comando para remover um cargo em um usuário do servidor.",
+      "howToUse": [
+        "d$remcargo @YGɑbrielGØDs @❰⭐❱❱❱ Parceiro ✫✫✫",
+        "d$remcargo 812911319695097856 @❰⭐❱❱❱ Parceiro ✫✫✫"
+      ]
+    },
+    {
+      "name": "d$reportarbug",
+      "subtitle": "reporte o bug de algum servidor ao seu dono e moderadores.",
+      "usageDescription": "Utilize este comando para reportar um bug de algum servidor.",
+      "howToUse": ["d$reportarbug Tal comando está bugado."]
+    },
+    {
+      "name": "d$reportbug",
+      "subtitle": "reporte o bug de algum servidor ao seu dono e moderadores.",
+      "usageDescription": "Utilize este comando para reportar um bug de algum servidor.",
+      "howToUse": ["d$reportbug Tal comando está bugado."]
+    },
+    {
+      "name": "d$repbug",
+      "subtitle": "reporte o bug de algum servidor ao seu dono e moderadores.",
+      "usageDescription": "Utilize este comando para reportar um bug de algum servidor.",
+      "howToUse": ["d$repbug Tal comando está bugado."]
+    },
+    {
+      "name": "d$setban",
+      "subtitle": "sete um canal de banimentos do seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de ban.",
+      "howToUse": ["d$setban (canal)"]
+    },
+    {
+      "name": "d$setbanir",
+      "subtitle": "sete um canal de banimentos do seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de ban.",
+      "howToUse": ["d$setbanir (canal)"]
+    },
+    {
+      "name": "d$setdenuncia",
+      "subtitle": "sete um canal de denúncias em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de denúncias.",
+      "howToUse": ["d$setdenuncia (canal)"]
+    },
+    {
+      "name": "d$setdenunciar",
+      "subtitle": "sete um canal de denúncias em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de denúncias.",
+      "howToUse": ["d$setdenunciar (canal)"]
+    },
+    {
+      "name": "d$setexpulsar",
+      "subtitle": "sete um canal de expulsões em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de expulsão.",
+      "howToUse": ["d$setexpulsar (canal)"]
+    },
+    {
+      "name": "d$setkick",
+      "subtitle": "sete um canal de expulsões em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de expulsão.",
+      "howToUse": ["d$setkick (canal)"]
+    },
+    {
+      "name": "d$setreportarbug",
+      "subtitle": "sete um canal para reportar bugs em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal para reportar bugs.",
+      "howToUse": ["d$setreportarbug (canal)"]
+    },
+    {
+      "name": "d$setreportbug",
+      "subtitle": "sete um canal para reportar bugs em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal para reportar bugs.",
+      "howToUse": ["d$setreportbug (canal)"]
+    },
+    {
+      "name": "d$repbug",
+      "subtitle": "sete um canal para reportar bugs em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal para reportar bugs.",
+      "howToUse": ["d$repbug (canal)"]
+    },
+    {
+      "name": "d$setsugerir",
+      "subtitle": "sete um canal de sugestões em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de sugestões.",
+      "howToUse": ["d$setsugerir (canal)"]
+    },
+    {
+      "name": "d$setsugestao",
+      "subtitle": "sete um canal de sugestões em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de sugestões.",
+      "howToUse": ["d$setsugestao (canal)"]
+    },
+    {
+      "name": "d$setmsgedit",
+      "subtitle": "sete um canal para logs de mensagens editadas em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de logs para mensagens editadas.",
+      "howToUse": ["d$setmsgedit (canal)"]
+    },
+    {
+      "name": "d$setmsgdel",
+      "subtitle": "sete um canal para logs de mensagens apagadas em seu servidor",
+      "usageDescription": "Utilize este comando para setar o canal de logs para mensagens apagadas.",
+      "howToUse": ["d$setmsgdel (canal)"]
+    },
+    {
+      "name": "d$sugerir",
+      "subtitle": "sugira algo para algum servidor.",
+      "usageDescription": "Utilize este comando para sugerir algo para o servidor.",
+      "howToUse": [
+        "d$sugerir Sugiro que adicione um bot de musica no servidor."
+      ]
+    },
+    {
+      "name": "d$sugestao",
+      "subtitle": "sugira algo para algum servidor.",
+      "usageDescription": "Utilize este comando para sugerir algo para o servidor.",
+      "howToUse": [
+        "d$sugestao Sugiro que adicione um bot de musica no servidor."
+      ]
+    },
+    {
+      "name": "d$trancar",
+      "subtitle": "tranque um canal do seu servidor.",
+      "usageDescription": "Utilize este comando para trancar um canal em seu servidor.",
+      "howToUse": ["d$trancar"]
+    },
+    {
+      "name": "d$unlock",
+      "subtitle": "destranque um canal do seu servidor.",
+      "usageDescription": "Utilize este comando para destrancar um canal em seu servidor.",
+      "howToUse": ["d$unlock"]
+    }
+  ],
+
+  "utils": [
+    {
+      "name": "d$calculadora",
+      "subtitle": "utilize uma calculadora e faça seus cálculos",
+      "usageDescription": "Utilize este comando para utilizar uma calculadora.",
+      "howToUse": ["d$calculadora"]
+    }
+  ]
+}

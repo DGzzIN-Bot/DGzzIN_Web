@@ -1,13 +1,18 @@
 import React from "react";
-import { Container } from "./style";
+import { Header } from "./style";
+import icons from "data/icons";
 
-const Header = () => {
+const HeaderCommands = () => {
   return (
     <>
-      <Container>
+      <Header>
         <header>
-          <a href="/" className="brand">
-            DGzzIN ツ
+          <div></div>
+          <div></div>
+          <div></div>
+          <div></div>
+          <a href="/">
+            <img src={icons.DGzzIN.link} className="logo" />
           </a>
           <div className="toggleMenu" onclick="menuToggle();">
             <div className="line1"></div>
@@ -22,18 +27,15 @@ const Header = () => {
               <a href="https://discord.gg/fTWzcm75VD">Suporte</a>
             </li>
             <li>
-              <a href="/commands">Comandos</a>
-            </li>
-            <li>
               <a href="https://discord.com/api/oauth2/authorize?client_id=844065812355612702&permissions=8&scope=bot">
                 Convite
               </a>
             </li>
           </ul>
         </header>
-      </Container>
+      </Header>
     </>
   );
 };
 
-export default Header;
+export default HeaderCommands;

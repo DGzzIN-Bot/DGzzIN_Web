@@ -1,13 +1,14 @@
 import styled from "styled-components";
 
 export const Content = styled.div`
+  background-color: #4b1616;
+
   .content {
     position: relative;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #4b1616;
     padding: 100px;
   }
 
@@ -32,17 +33,21 @@ export const Content = styled.div`
   }
 
   .content .textBox p {
+    font-family: "Madimi One", sans-serif;
     color: #fff;
+    font-weight: 400;
+    font-size: 120%;
   }
 
   .content .textBox a {
+    font-family: "Madimi One", sans-serif;
     display: inline-block;
     margin-top: 40px;
     padding: 15px 35px;
     background: #fff;
     color: #2696e9;
     border-radius: 40px;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: 1px;
     text-decoration: none;
   }
