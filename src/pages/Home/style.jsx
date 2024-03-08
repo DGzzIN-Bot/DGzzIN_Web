@@ -67,7 +67,6 @@ export const Content = styled.div`
 export const History = styled.div`
   .make_history {
     height: 100vh;
-    background-color: #202834;
     display: flex;
     justify-content: center;
     align-items: center;

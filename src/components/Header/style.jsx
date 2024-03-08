@@ -54,4 +54,70 @@ export const Container = styled.div`
     text-transform: uppercase;
     text-decoration: none;
   }
+
+  @media (max-width: 991px) {
+    header {
+      padding: 20px 40px;
+    }
+
+    header ul {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #111;
+      z-index: 1;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      transition: 0.2s;
+      visibility: hidden;
+      opacity: 0;
+    }
+
+    header ul.active {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    header ul li a {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100%;
+      margin-bottom: 1rem;
+      z-index: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .toggleMenu div {
+      height: 5px;
+      width: 30px;
+      margin: 6px;
+      background-color: #fff;
+      transition-duration: 0.3s;
+    }
+
+    .toggleMenu.active .line1 {
+      transform: rotate(45deg) translate(7px, 7px);
+      background-color: #fff;
+    }
+
+    .toggleMenu.active .line2 {
+      opacity: 0;
+    }
+
+    .toggleMenu.active .line3 {
+      transform: rotate(-45deg) translate(8px, -9px);
+      background-color: #fff;
+    }
+
+    .toggleMenu.active {
+      z-index: 2;
+    }
+  }
 `;

@@ -9,7 +9,9 @@ const Footer = () => {
         <footer className="footer" id="footer">
           <div className="container">
             <div className="logo">
-              <img src={icons.DeGabrielDEV.link} alt="" />
+              <a href="https://degabrielofi.vercel.app/" target="--blank">
+                <img src={icons.DeGabrielDEV.link} alt="" />
+              </a>
             </div>
             <div className="row">
               <div className="footer-col">
@@ -19,13 +21,18 @@ const Footer = () => {
                     <a href="/">Home</a>
                   </li>
                   <li>
-                    <a href="https://discord.gg/fTWzcm75VD">Suporte</a>
+                    <a href="/commands">Comandos</a>
                   </li>
                   <li>
-                    <a href="./commands.html">Comandos</a>
+                    <a href="https://discord.gg/fTWzcm75VD" target="--blank">
+                      Suporte
+                    </a>
                   </li>
                   <li>
-                    <a href="https://discord.com/api/oauth2/authorize?client_id=844065812355612702&permissions=8&scope=bot">
+                    <a
+                      href="https://discord.com/api/oauth2/authorize?client_id=844065812355612702&permissions=8&scope=bot"
+                      target="--blank"
+                    >
                       Convite
                     </a>
                   </li>
@@ -35,30 +42,45 @@ const Footer = () => {
                 <h4>Obter Ajuda</h4>
                 <ul>
                   <li>
-                    <a href="https://discord.gg/VzMfCmNJyb">Comunidade</a>
+                    <a href="https://discord.gg/VzMfCmNJyb" target="--blank">
+                      Comunidade
+                    </a>
                   </li>
                   <li>
-                    <a href="mailto:contatodegabrielofi@gmail.com">Email</a>
+                    <a
+                      href="mailto:contatodegabrielofi@gmail.com"
+                      target="--blank"
+                    >
+                      Email
+                    </a>
                   </li>
                   <li>
-                    <a href="https://discord.gg/fTWzcm75VD">Suporte</a>
+                    <a href="https://discord.gg/fTWzcm75VD" target="--blank">
+                      Suporte
+                    </a>
                   </li>
                 </ul>
               </div>
               <div className="footer-col">
                 <h4>Redes Sociais:</h4>
                 <div className="social-links">
-                  <a href="https://github.com/degabrielofi">
+                  <a href="https://github.com/degabrielofi" target="--blank">
                     <i className="fab fa-github"></i>
                   </a>
-                  <a href="https://discord.gg/fTWzcm75VD">
+                  <a href="https://discord.gg/fTWzcm75VD" target="--blank">
                     <i className="fab fa-discord"></i>
                   </a>
-                  <a href="https://www.instagram.com/dgzzinbot/">
+                  <a
+                    href="https://www.instagram.com/degabrielofi_/"
+                    target="--blank"
+                  >
                     <i className="fab fa-instagram"></i>
                   </a>
-                  <a href="https://twitter.com/DGzzINBOT">
-                    <i className="fab fa-twitter"></i>
+                  <a
+                    href="https://www.linkedin.com/in/degabrielofi/"
+                    target="--blank"
+                  >
+                    <i className="fab fa-linkedin"></i>
                   </a>
                 </div>
               </div>
