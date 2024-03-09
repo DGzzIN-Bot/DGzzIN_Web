@@ -23,7 +23,10 @@ const Home = () => {
               Utilidades entre muitas outras coisas, me adicione no seu servidor
               e divirte-se!
             </p>
-            <a href="https://discord.com/api/oauth2/authorize?client_id=844065812355612702&permissions=8&scope=bot">
+            <a
+              href="https://discord.com/api/oauth2/authorize?client_id=844065812355612702&permissions=8&scope=bot"
+              target="--blank"
+            >
               Me Adicione +
             </a>
           </div>
