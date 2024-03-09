@@ -119,6 +119,18 @@ export const Footers = styled.div`
       width: 50%;
       margin-bottom: 30px;
     }
+
+    .container .logo:after {
+      left: 35%;
+    }
+
+    .container .logo img {
+      width: 35%;
+    }
+
+    .row {
+      margin-top: 1.5rem;
+    }
   }
 
   @media (max-width: 574px) {

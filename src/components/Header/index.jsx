@@ -1,8 +1,20 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Container } from "./style";
 
 const Header = () => {
   const [classOn, setClassOn] = useState(false);
+
+  useEffect(() => {
+    const body = document.body;
+    if (classOn) {
+      body.style.overflow = "hidden";
+    } else {
+      body.style.overflow = "auto";
+    }
+    return () => {
+      body.style.overflow = "auto";
+    };
+  }, [classOn]);
 
   return (
     <>
@@ -24,12 +36,12 @@ const Header = () => {
               <a href="/">Home</a>
             </li>
             <li>
+              <a href="/commands">Comandos</a>
+            </li>
+            <li>
               <a href="https://discord.gg/fTWzcm75VD" target="--blank">
                 Suporte
               </a>
-            </li>
-            <li>
-              <a href="/commands">Comandos</a>
             </li>
             <li>
               <a

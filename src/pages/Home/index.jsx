@@ -8,8 +8,8 @@ const Home = () => {
     <>
       <Header />
       <Content>
-        <div class="content">
-          <div class="textBox">
+        <div className="content">
+          <div className="textBox">
             <h1>
               O Seu BOT.
               <br />
@@ -42,7 +42,7 @@ const Home = () => {
                 membros do seu servidor satisfeitos, mesmo que seja apenas uma
                 pequena emoção de alegria no seu rosto."
               </p>
-              <p>
+              <p className="text">
                 Por isto eu possuo vários comandos diferentes e engraçados para
                 você se divertir e interagir com eles! É também para que eles
                 possam ajudar no desenvolvimento da sua comunidade, e fazer que

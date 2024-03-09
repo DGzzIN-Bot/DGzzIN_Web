@@ -1,11 +1,9 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  .title .list {
-    margin-top: 1rem;
-  }
-
   .title .list a {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 300;
     background-color: #000000;
     border: 1px 1px 1px 1px;
     padding: 10px 20px 10px 20px;
@@ -24,8 +22,9 @@ export const Container = styled.div`
   }
 
   .title h1 {
+    font-family: "Madimi One", sans-serif;
     color: #fff;
-    font-size: 3rem;
+    font-size: 400%;
   }
 
   .title {
@@ -34,33 +33,17 @@ export const Container = styled.div`
     text-align: center;
   }
 
-  @media (min-width: 760px) and (max-width: 991px) {
+  @media screen and (max-width: 992px) {
     .title {
-      margin-top: 5rem;
+      margin-top: 30%;
     }
 
     .title h1 {
       color: #fff;
-      font-size: 2rem;
-    }
-  }
-
-  @media (max-width: 760px) {
-    .title {
-      margin-top: 5rem;
-    }
-
-    .title h1 {
-      color: #fff;
-      font-size: 1.5rem;
+      font-size: 150%;
     }
 
     .title .list a {
-      background-color: #000000;
-      border: 1px 1px 1px 1px;
-      padding: 10px 15px 10px 15px;
-      text-decoration: none;
-      color: #fff;
       margin-bottom: 0.5rem;
     }
 
@@ -68,7 +51,7 @@ export const Container = styled.div`
       display: flex;
       flex-direction: column;
       flex-wrap: wrap;
-      margin: 50px;
+      margin: 20px;
       margin-top: 1rem;
     }
   }

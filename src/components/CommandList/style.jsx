@@ -41,4 +41,8 @@ export const Content = styled.div`
     margin: 15px 0 0 10px;
     padding: 0 2rem;
   }
+
+  @media screen and (max-width: 992px) {
+    margin-top: 1rem;
+  }
 `;

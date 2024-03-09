@@ -67,13 +67,12 @@ export const Container = styled.div`
       width: 100%;
       height: 100%;
       background: #111;
-      z-index: 1;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
-      transition: 0.2s;
       visibility: hidden;
       opacity: 0;
+      transition: 0.2s;
+      z-index: 1;
     }
 
     header ul.active {
@@ -81,17 +80,16 @@ export const Container = styled.div`
       opacity: 1;
     }
 
-    header ul li a {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100vw;
-      height: 100%;
-      margin-bottom: 1rem;
-      z-index: 1;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    .navigation {
+      margin-top: 20%;
+    }
+
+    .navigation a {
+      margin-left: 0;
+    }
+
+    header ul li {
+      margin: 5%;
     }
 
     .toggleMenu div {

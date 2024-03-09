@@ -18,7 +18,7 @@ export const Content = styled.div`
   }
 
   .content .textBox h1 {
-    font-size: 4em;
+    font-size: 400%;
     font-weight: 900;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -62,11 +62,38 @@ export const Content = styled.div`
     left: 0;
     background: linear-gradient(transparent, #202834);
   }
+
+  @media screen and (max-width: 992px) {
+    .content {
+      padding: 20px 40px;
+    }
+
+    .content .textBox h1 {
+      margin-top: 25%;
+      font-size: 200%;
+      letter-spacing: 5px;
+      line-height: 45px;
+      margin-bottom: 20px;
+    }
+
+    .content .textBox h1 span {
+      font-size: 1.2em;
+    }
+
+    .content .textBox p {
+      font-size: 100%;
+    }
+
+    .content .textBox a {
+      margin-top: 20px;
+      margin-bottom: 20%;
+    }
+  }
 `;
 
 export const History = styled.div`
   .make_history {
-    height: 100vh;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -85,15 +112,22 @@ export const History = styled.div`
     flex-direction: row;
     text-align: center;
     text-transform: uppercase;
+    margin-top: 2%;
   }
 
   .make_history p {
-    margin-top: 1rem;
+    margin: 2% 0 2% 0;
     color: #fff;
     font-size: 120%;
   }
 
-  .make_history .title {
-    text-align: center;
+  .make_history .text {
+    margin-bottom: 10%;
+  }
+
+  @media screen and (max-width: 992px) {
+    .make_history p {
+      font-size: 100%;
+    }
   }
 `;

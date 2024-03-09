@@ -24,8 +24,6 @@ const Commands = () => {
   const commands = data[selectedCategory] || [];
   const title = categoryTitles[selectedCategory] || "Comandos Desconhecidos.";
 
-  console.log(title);
-
   return (
     <>
       <HeaderCommands />

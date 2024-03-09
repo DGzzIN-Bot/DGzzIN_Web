@@ -66,14 +66,8 @@ export const Header = styled.div`
     width: 100%;
   }
 
-  @media (min-width: 760px) and (max-width: 991px) {
-    .part1 header {
-      padding: 10px 1rem 0;
-    }
-  }
-
-  @media (max-width: 760px) {
-    .part1 header {
+  @media screen and (max-width: 992px) {
+    header {
       padding: 10px 1rem 0;
     }
   }
