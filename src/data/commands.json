@@ -170,24 +170,6 @@
       "howToUse": ["d$clima SP", "d$clima São Paulo"]
     },
     {
-      "name": "d$covid (local)",
-      "subtitle": "saiba como está a situação da Covid-19 em algum lugar do mundo.",
-      "usageDescription": "Utilize este comando para saber sobre a Covid-19 em um lugar.",
-      "howToUse": [
-        "d$covid (Mostra os dados de todo o mundo.)",
-        "d$covid Brasil (Mostra os dados somente do Brasil.)"
-      ]
-    },
-    {
-      "name": "d$covid19 (local)",
-      "subtitle": "saiba como está a situação da Covid-19 em algum lugar do mundo.",
-      "usageDescription": "Utilize este comando para saber sobre a Covid-19 em um lugar.",
-      "howToUse": [
-        "d$covid19 (Mostra os dados de todo o mundo.)",
-        "d$covid19 Brasil (Mostra os dados somente do Brasil.)"
-      ]
-    },
-    {
       "name": "d$emojiinfo",
       "subtitle": "obtenha informações de um determinado emoji.",
       "usageDescription": "Utilize este comando para obter informações de um emoji.",
@@ -663,24 +645,6 @@
       "subtitle": "saiba como está o clima de um lugar no mundo.",
       "usageDescription": "Utilize este comando para saber o clima de um lugar.",
       "howToUse": ["d$clima SP", "d$clima São Paulo"]
-    },
-    {
-      "name": "d$covid (local)",
-      "subtitle": "saiba como está a situação da Covid-19 em algum lugar do mundo.",
-      "usageDescription": "Utilize este comando para saber sobre a Covid-19 em um lugar.",
-      "howToUse": [
-        "d$covid (Mostra os dados de todo o mundo.)",
-        "d$covid Brasil (Mostra os dados somente do Brasil.)"
-      ]
-    },
-    {
-      "name": "d$covid19 (local)",
-      "subtitle": "saiba como está a situação da Covid-19 em algum lugar do mundo.",
-      "usageDescription": "Utilize este comando para saber sobre a Covid-19 em um lugar.",
-      "howToUse": [
-        "d$covid19 (Mostra os dados de todo o mundo.)",
-        "d$covid19 Brasil (Mostra os dados somente do Brasil.)"
-      ]
     },
     {
       "name": "d$emojiinfo",
