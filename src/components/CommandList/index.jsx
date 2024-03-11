@@ -15,7 +15,11 @@ const CommandList = ({ commands }) => {
             <p>{command.usageDescription}</p>
             <br />
             <h4>Como Usar?</h4>
-            <p>{command.howToUse}</p>
+            <div>
+              {command.howToUse.map((useCase, i) => (
+                <p key={i}>{useCase}</p>
+              ))}
+            </div>
             <br />
           </details>
         </div>
