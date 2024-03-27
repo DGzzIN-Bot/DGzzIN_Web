@@ -63,9 +63,22 @@ export const Content = styled.div`
     background: linear-gradient(transparent, #202834);
   }
 
+  .image_dg {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    margin-top: -5%;
+  }
+
+  .image_dg img {
+    width: 60%;
+  }
+
   @media screen and (max-width: 992px) {
     .content {
       padding: 20px 40px;
+      flex-direction: column;
     }
 
     .content .textBox h1 {
@@ -87,6 +100,12 @@ export const Content = styled.div`
     .content .textBox a {
       margin-top: 20px;
       margin-bottom: 20%;
+    }
+
+    .content .image_dg {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 5%;
     }
   }
 `;

@@ -2,6 +2,7 @@ import React from "react";
 import { Content, History } from "./style";
 import Footer from "components/Footer";
 import Header from "components/Header";
+import icons from "data/icons";
 
 const Home = () => {
   return (
@@ -29,6 +30,10 @@ const Home = () => {
             >
               Me Adicione +
             </a>
+          </div>
+
+          <div className="image_dg">
+            <img src={icons.DGzzIN_Transparent.link} alt="" />
           </div>
         </div>
       </Content>
